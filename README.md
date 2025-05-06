@@ -6,6 +6,10 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<h3>Praticando projetos em HTML, Python, JavaScript e SQL</h3>
+
+<h4>🚀Buscando minha primeira oportunidade como desenvolvedor júnior </h4>
+
 
 <br>
 
