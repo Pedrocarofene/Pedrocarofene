@@ -18,10 +18,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Pedrocarofene&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Pedrocarofene&show_icons=true&theme=tokyonight"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrocarofene&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrocarofene&theme=tokyonight"/>
       </td>
     </tr>
   </table>
