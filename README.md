@@ -26,3 +26,4 @@
     </tr>
   </table>
 </div>
+https://github-readme-stats.vercel.app/api?username=Pedrocarofene
